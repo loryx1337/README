@@ -1,4 +1,4 @@
-# README
+
 <!-- Banner / Header -->
 <h1 align="center">👋 Hey, I'm <span style="color:#f5426c">einfxchsaiyu</span></h1>
 <h3 align="center">🎨 FiveM Frontend Developer | 16 y/o Frontend Developer</h3>
