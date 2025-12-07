@@ -1,6 +1,6 @@
 
 <!-- Banner / Header -->
-<h1 align="center">👋 Hey, I'm <span style="color:#f5426c">einfxchsaiyu</span></h1>
+<h1 align="center">👋 Hey, I'm <span style="color:#f5426c">Loryx1337</span></h1>
 <h3 align="center">🎨 FiveM Frontend Developer | 16 y/o Frontend Developer</h3>
 
 ---
@@ -36,8 +36,8 @@
 ---
 
 ## 📫 Contact
-- 💬 Discord: **einfxchsaiyu**  
-- 🌍 GitHub: [einfxchsaiyu](https://github.com/einfxchsaiyu)  
+- 💬 Discord: **loryx1337**  
+- 🌍 GitHub: [Loryx1337](https://github.com/loryx1337)  
 
 ---
-⭐️ From [einfxchsaiyu](https://github.com/einfxchsaiyu)
+⭐️ From [Loryx1337](https://github.com/loryx1337) 
